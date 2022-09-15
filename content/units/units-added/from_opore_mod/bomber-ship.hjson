@@ -31,7 +31,7 @@ weapons: [
 		shootSound: missile
 		bullet: {
 			type: BasicBulletType
-			sprite: tinymod-missile-f117
+			sprite: happy-times-mod-missile-f117
 			
 			width: 7
 			height: 14

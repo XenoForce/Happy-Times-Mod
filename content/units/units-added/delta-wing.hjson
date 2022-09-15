@@ -176,7 +176,7 @@ commandLimit: 10
     "shootSound": "plasmaboom",
     "shootCone": 45,
 	"bullet": {
-    "sprite": "tinymod-bullet-plasma",
+    "sprite": "happy-times-mod-bullet-plasma",
     "hitEffect": {
     "type": "multiEffect",
     "effects": [
@@ -250,7 +250,7 @@ commandLimit: 10
     "length": 0,
     "lifetime": 13,
     "sizeFrom": 7,
-    "region": "tinymod-bullet-plasma-back",
+    "region": "happy-times-mod-bullet-plasma-back",
     "colorFrom": "A9D8FFFF",
     "colorTo": "66B1FFAA"
     },
@@ -307,7 +307,7 @@ commandLimit: 10
     "pierce": true,
     "pierceBuilding": true,
     "type": "basicBulletType",
-    "sprite": "tinymod-bullet-star-cutter",
+    "sprite": "happy-times-mod-bullet-star-cutter",
     "damage": 360,
     "status": "freezing",
     "statusDuration": 150,
@@ -326,7 +326,7 @@ commandLimit: 10
     "length": 0,
     "lifetime": 25,
     "sizeFrom": 12,
-    "region": "tinymod-bullet-star-cutter-effect",
+    "region": "happy-times-mod-bullet-star-cutter-effect",
     "colorFrom": "A9D8FFFF",
     "colorTo": "66B1FFAA"
     },
