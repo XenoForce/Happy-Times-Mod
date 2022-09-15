@@ -1,0 +1,52 @@
+type: UnitFactory
+name: Special Factory
+description: Special Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: stell        , time: 90, requirements: [] }
+	{ unit: locus        , time: 90, requirements: [] }
+	{ unit: precept      , time: 90, requirements: [] }
+	{ unit: vanquish     , time: 90, requirements: [] }
+	{ unit: conquer      , time: 90, requirements: [] }
+	
+	
+	{ unit: merui        , time: 90, requirements: [] }
+	{ unit: cleroi       , time: 90, requirements: [] }
+	{ unit: anthicus     , time: 90, requirements: [] }
+	{ unit: tecta        , time: 90, requirements: [] }
+	{ unit: collaris     , time: 90, requirements: [] }
+	
+	
+	{ unit: elude        , time: 90, requirements: [] }
+	{ unit: avert        , time: 90, requirements: [] }
+	{ unit: obviate      , time: 90, requirements: [] }
+	{ unit: quell        , time: 90, requirements: [] }
+	{ unit: disrupt      , time: 90, requirements: [] }
+	
+	
+	{ unit: zeta         , time: 90, requirements: [] }
+	{ unit: pdagger      , time: 90, requirements: [] }
+	{ unit: bomber-ship  , time: 90, requirements: [] }
+	{ unit: awp-ship     , time: 90, requirements: [] }
+	{ unit: delta-wing   , time: 90, requirements: [] }
+	
+	
+	{ unit: attacker     , time: 90, requirements: [] }
+	{ unit: falcon       , time: 90, requirements: [] }
+	{ unit: prototype-s  , time: 90, requirements: [] }
+	{ unit: prototype-t  , time: 90, requirements: [] }
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: happy-times-mod-logo
+
+alwaysUnlocked: true

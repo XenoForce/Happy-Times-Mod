@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Pyratite Source
+description: Pyratite Source
+
+health: 99000
+itemCapacity: 50
+
+outputItem: {
+  item: pyratite
+  amount: 9
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: crafting
+research: blast-compound-source
+
+alwaysUnlocked: true

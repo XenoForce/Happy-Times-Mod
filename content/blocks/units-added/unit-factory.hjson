@@ -1,0 +1,53 @@
+type: UnitFactory
+name: Unit Factory
+description: Unit Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: flare       , time: 90, requirements: [] }
+	{ unit: horizon     , time: 90, requirements: [] }
+	{ unit: zenith      , time: 90, requirements: [] }
+	{ unit: antumbra    , time: 90, requirements: [] }
+	{ unit: eclipse     , time: 90, requirements: [] }
+	
+	
+	{ unit: nova        , time: 90, requirements: [] }
+	{ unit: pulsar      , time: 90, requirements: [] }
+	{ unit: quasar      , time: 90, requirements: [] }
+	{ unit: vela        , time: 90, requirements: [] }
+	{ unit: corvus      , time: 90, requirements: [] }
+	
+	
+	{ unit: dagger      , time: 90, requirements: [] }
+	{ unit: mace        , time: 90, requirements: [] }
+	{ unit: fortress    , time: 90, requirements: [] }
+	{ unit: scepter     , time: 90, requirements: [] }
+	{ unit: reign       , time: 90, requirements: [] }
+	
+	
+	{ unit: mono        , time: 90, requirements: [] }
+	{ unit: poly        , time: 90, requirements: [] }
+	{ unit: mega        , time: 90, requirements: [] }
+	{ unit: quad        , time: 90, requirements: [] }
+	{ unit: oct         , time: 90, requirements: [] }
+	
+	
+	{ unit: crawler     , time: 90, requirements: [] }
+	{ unit: atrax       , time: 90, requirements: [] }
+	{ unit: spiroct     , time: 90, requirements: [] }
+	{ unit: arkyid      , time: 90, requirements: [] }
+	{ unit: toxopid     , time: 90, requirements: [] }
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: special-factory
+
+alwaysUnlocked: true

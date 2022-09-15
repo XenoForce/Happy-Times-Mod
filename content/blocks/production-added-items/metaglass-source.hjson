@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Metaglass Source
+description: Metaglass Source
+
+health: 99000
+itemCapacity: 50
+
+outputItem: {
+  item: metaglass
+  amount: 9
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: crafting
+research: lead-source
+
+alwaysUnlocked: true

@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Thorium Source
+description: Thorium Source
+
+health: 99000
+itemCapacity: 50
+
+outputItem: {
+  item: thorium
+  amount: 9
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: crafting
+research: titanium-source
+
+alwaysUnlocked: true

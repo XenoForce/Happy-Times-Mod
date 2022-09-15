@@ -1,0 +1,32 @@
+type: UnitFactory
+name: Boat Factory
+description: Boat Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+
+plans: [
+	{ unit: risso       , time: 90, requirements: [] }
+	{ unit: minke       , time: 90, requirements: [] }
+	{ unit: bryde       , time: 90, requirements: [] }
+	{ unit: sei         , time: 90, requirements: [] }
+	{ unit: omura       , time: 90, requirements: [] }
+	
+	
+	{ unit: retusa      , time: 90, requirements: [] }
+	{ unit: oxynoe      , time: 90, requirements: [] }
+	{ unit: cyerce      , time: 90, requirements: [] }
+	{ unit: aegires     , time: 90, requirements: [] }
+	{ unit: navanax     , time: 90, requirements: [] }
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: unit-factory
+
+alwaysUnlocked: true

@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Slag Source
+description: Slag Source
+
+health: 99000
+liquidCapacity: 50
+
+outputLiquid: {
+  liquid: slag
+  amount: 9
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: true
+hasItems: false
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: liquid
+research: water-source
+
+alwaysUnlocked: true

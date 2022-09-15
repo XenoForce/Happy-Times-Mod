@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Cyanogen Source
+description: Cyanogen Source
+
+health: 99000
+liquidCapacity: 50
+
+outputLiquid: {
+  liquid: cyanogen
+  amount: 9
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: true
+hasItems: false
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: liquid
+research: nitrogen-source
+
+alwaysUnlocked: true

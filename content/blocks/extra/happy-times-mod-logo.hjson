@@ -1,0 +1,16 @@
+type: SolarGenerator
+powerProduction: 900
+
+name: Happy Times Mod Logo
+description: Happy Times Mod Logo
+
+health: 99000
+size: 2
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: logic
+research: duo
+
+alwaysUnlocked: true

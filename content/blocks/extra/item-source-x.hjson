@@ -1,0 +1,20 @@
+type: ItemSource
+name: Item Source
+description: Item Source
+
+health: 99000
+size: 1
+hasItems: true
+update: true
+solid: true
+
+group: transportation
+configurable: true
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: effect
+research: happy-times-mod-logo
+
+alwaysUnlocked: true

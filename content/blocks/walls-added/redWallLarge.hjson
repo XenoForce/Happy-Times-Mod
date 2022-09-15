@@ -1,0 +1,17 @@
+type: SolarGenerator
+powerProduction: 900
+
+name: Large Red Wall
+description: Large Red Wall
+
+health: 99000
+size: 2
+
+// requirements: [ copper/1 ]
+requirements: []
+buildCostMultiplier: 0.1
+
+category: defense
+research: redWall
+
+alwaysUnlocked: true

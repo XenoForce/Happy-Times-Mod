@@ -1,0 +1,17 @@
+type: SolarGenerator
+powerProduction: 900
+
+name: Gold Wall
+description: Gold Wall
+
+health: 99000
+size: 1
+
+// requirements: [ copper/1 ]
+requirements: []
+buildCostMultiplier: 0.1
+
+category: defense
+research: redWallLarge
+
+alwaysUnlocked: true

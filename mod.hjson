@@ -1,0 +1,7 @@
+name: happy-times-mod
+displayName: Happy Times Mod
+author: XenoTale
+description: Make Erekir components available on Serpulo.
+version: "1.0.1"
+minGameVersion: "136"
+dependencies: []

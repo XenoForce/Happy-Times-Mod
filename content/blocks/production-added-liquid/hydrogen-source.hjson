@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Hydrogen Source
+description: Hydrogen Source
+
+health: 99000
+liquidCapacity: 50
+
+outputLiquid: {
+  liquid: hydrogen
+  amount: 9
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: true
+hasItems: false
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: liquid
+research: ozone-source
+
+alwaysUnlocked: true

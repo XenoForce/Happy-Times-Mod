@@ -1,0 +1,29 @@
+type: GenericCrafter
+name: Carbide Source
+description: Carbide Source
+
+health: 99000
+itemCapacity: 50
+
+outputItem: {
+  item: carbide
+  amount: 9
+}
+
+size: 1
+
+hasPower: false
+hasLiquids: false
+hasItems: true
+craftTime: 1
+
+consumes: {
+}
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: crafting
+research: oxide-source
+
+alwaysUnlocked: true
