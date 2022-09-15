@@ -3,6 +3,8 @@ This mod makes Erekir turrets and units work on the Serpulo planet, among other 
 
 <br>
 
+**Notes:**
+
 All researchable components are unlocked, right from the start. This includes all turrets, buildings and units.
 
 <br>
