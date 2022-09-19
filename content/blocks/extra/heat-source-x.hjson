@@ -1,0 +1,17 @@
+type: HeatProducer
+name: Heat Source
+description: Heat Source
+
+health: 99000
+size: 1
+consumesPower: false
+
+heatOutput: 9900
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: power
+research: liquid-source-x
+
+alwaysUnlocked: true
