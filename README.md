@@ -3,6 +3,13 @@ This mod makes Erekir turrets and units work on the Serpulo planet, among other 
 
 <br>
 
+
+**WARNING:**
+
+This is effectively a cheat mod. This mod makes the Serpulo campaign very easy, because it gives the player access to over-powered units and turrets. Don't use this mod, if you don't want the original game-play of the game spoiled for you!
+
+<br>
+
 **Notes:**
 
 All researchable components are unlocked right from the start. This includes all turrets, walls, buildings and units.
