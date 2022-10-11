@@ -10,6 +10,7 @@ outputLiquid: {
   amount: 9
 }
 
+group: liquids
 size: 1
 
 hasPower: false
