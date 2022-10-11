@@ -10,6 +10,7 @@ outputItem: {
   amount: 9
 }
 
+group: transportation
 size: 1
 
 hasPower: false
