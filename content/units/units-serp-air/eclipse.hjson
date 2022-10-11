@@ -1,7 +1,10 @@
 
 buildSpeed: 9900.0
-itemCapacity: 9900
+itemCapacity: 900
 
 speed: 3.0
+
+envEnabled: 17
+envDisabled: 0
 
 alwaysUnlocked: true
