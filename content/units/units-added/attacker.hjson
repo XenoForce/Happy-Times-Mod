@@ -33,7 +33,7 @@ aimDst: 140
 engineSize: 2
 lowAltitude: true
 targetAir: true
-commandLimit: 6
+// commandLimit: 6
 
 
 "weapons": [
@@ -45,8 +45,8 @@ commandLimit: 6
     "rotateSpeed": 4,
     "reload": 12,
     "recoil": 2,
-    "shots": 2,
-    "shotDelay": 3,
+    // "shots": 2,
+    // "shotDelay": 3,
     "inaccuracy": 2,
     "shootSound": "bang",
     "mirror": true,
@@ -108,8 +108,8 @@ commandLimit: 6
     "rotateSpeed": 4,
     "reload": 30,
     "recoil": 2,
-    "shots": 3,
-    "shotDelay": 3,
+    // "shots": 3,
+    // "shotDelay": 3,
     "inaccuracy": 3,
     "shootSound": "shootBig",
     "mirror": true,
@@ -172,7 +172,7 @@ commandLimit: 6
     "shootY": 9,
     "shake": 3,
     "rotate": false,
-    "shots": 1,
+    // "shots": 1,
     "shootSound": "plasmaboom",
     "shootCone": 45,
 	"bullet": {
@@ -273,7 +273,7 @@ commandLimit: 6
     "backColor": "66B1FFFF",
     "lifetime": 120,
     "fragBullets": 8,
-    "fragCone": 360,
+    // "fragCone": 360,
     "fragVelocityMin": 0.46,
 	"fragBullet": {
     "hitEffect": {

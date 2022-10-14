@@ -28,8 +28,8 @@ weapons: [{
   x: -6
   y: 8
   reload: 4
-  shots: 2
-  shotDelay: 2
+  // shots: 2
+  // shotDelay: 2
   alternate: true
   ejectEffect: none
   velocityRnd: 0.2
