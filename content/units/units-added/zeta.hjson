@@ -5,6 +5,8 @@ description: Zeta Drone
 health: 99000
 armor: 90
 
+defaultCommand: rebuild
+
 buildSpeed: 9900.0
 itemCapacity: 900
 
