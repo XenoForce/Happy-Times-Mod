@@ -5,6 +5,16 @@ description: Prototype-S
 health: 99000
 armor: 90
 
+defaultCommand: repair
+isEnemy: false
+mineTier: 3
+mineSpeed: 4
+
+ammoType: {
+  type: PowerAmmoType
+  totalPower: 1100
+}
+
 buildSpeed: 9900.0
 itemCapacity: 900
 
@@ -51,6 +61,25 @@ weapons: [
 			// trailColor: ffff88
 		}
 	}
+	{
+        name: heal-weapon-mount
+        shootSound: lasershoot
+        reload: 15
+        x: 4
+        y: 5
+        rotate: true
+        
+        bullet: {
+            type: LaserBoltBulletType
+            speed: 5.2
+            damage: 8
+            lifetime: 35
+            healPercent: 50
+            collidesTeam: true
+            backColor: 98ffa9        //heal
+            frontColor: ffffff        //white
+        }
+    }
 ]
 
 research: falcon
